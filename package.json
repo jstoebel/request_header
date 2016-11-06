@@ -1,0 +1,22 @@
+{
+  "name": "request_header",
+  "version": "1.0.0",
+  "description": "a microservice to detect request headers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstoebel/request_header.git"
+  },
+  "author": "Jacob Stoebel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstoebel/request_header/issues"
+  },
+  "homepage": "https://github.com/jstoebel/request_header#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
